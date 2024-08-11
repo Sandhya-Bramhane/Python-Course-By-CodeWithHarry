@@ -1,0 +1,1 @@
+print(Name.capitalize())#capitale the pass first charcter
